@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Number Convertor</string>
+    <string name="number_convertor">NUMBER CONVERTOR</string>
+    <string name="binary_and_decimal">BINARY</string>
+    <string name="hexadecimal_and_decimal">HEXADECIMAL</string>
+    <string name="result">Result:</string>
+    <string name="converted_number">(converted number)</string>
+    <string name="enter_binary_decimal">Enter Binary</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_hexa_decimal">Enter Hexadecimal</string>
+    <string name="calculate2">Calculate</string>
+    <string name="result2">Result:</string>
+    <string name="converted_number2">(converted number)</string>
+    <string name="decimal">Decimal</string>
+</resources>
